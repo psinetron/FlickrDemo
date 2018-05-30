@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlickrSample</string>
+    <string name="error_code">Сервер вернул ошибку: %1$d</string>
+    <string name="search">Поиск</string>
+    <string name="no_internet_connection">Не удалось получить данные</string>
+    <string name="retry_connection">ПОВТОРИТЬ</string>
+    <string name="search_hint">Поиск</string>
+    <string name="back_hint">Вернуться</string>
+    <string name="result_for">Результат: "%1$s"</string>
+    <string name="image_load_failed">Не удалось загрузить изображение</string>
+
+</resources>
